@@ -52,13 +52,13 @@ The system processes live video frames, identifies waste objects, and displays d
 
 Real-time waste detection and counting using the DJI Tello drone camera.
 
-![Drone Detection](results/drone_result.jpg)
+![Drone Detection](results/drone_result.JPG)
 
 ### Detection Using Laptop Camera
 
 Waste detection and counting using a laptop camera.
 
-![Laptop Detection](results/webcam_result.jpg)
+![Laptop Detection](results/webcam_result.JPG)
 
 ---
 
