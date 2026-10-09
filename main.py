@@ -14,7 +14,7 @@ tello.takeoff()
 
 time.sleep(6)
 
-model = YOLO(r"/Users/macbook/Downloads/best.pt")
+model = YOLO("models/best.pt")
 
 
 unique_ids = set()
