@@ -44,10 +44,8 @@ The system processes live video frames, identifies waste objects, and displays d
 3. **Waste Detection:** Analyze frames using a trained YOLOv8 model.
 4. **Object Tracking:** Assign tracking IDs to detected objects.
 5. **Waste Counting:** Count unique tracked object IDs.
-6. **Visualization:** Display detections and save the annotated video.
-
----
-
+6. **Visualization:** Display detections and save the annotated
+   
 ## Project Results
 
 ### Detection Using Tello Drone
@@ -58,7 +56,7 @@ Real-time waste detection and counting using the DJI Tello drone camera.
 
 ### Detection Using Laptop Camera
 
-Additional waste detection demonstrations using a laptop camera.
+Waste detection and counting using a laptop camera.
 
 ![Laptop Detection](results/webcam_result.jpg)
 
